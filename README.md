@@ -18,11 +18,11 @@ This is a course repository for my CPE 031 - Visualizations and Data Analysis Cl
 ## Repository Structure
 
 ```
-├── Lab Activities/
 ├── Assignment Outputs/
-├── Project Files/
 ├── Datasets/
+├── Lab Activities/
 ├── Media/
+├── Project Files/
 └── README.md
 ```
 
